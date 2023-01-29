@@ -1,0 +1,1 @@
+C:\Users\Rommel\OneDrive\Desktop\RustReviewer\Rust_Mini_Projects\target\debug\Rust_Mini_Projects.exe: C:\Users\Rommel\OneDrive\Desktop\RustReviewer\Rust_Mini_Projects\src\guess_the_number.rs C:\Users\Rommel\OneDrive\Desktop\RustReviewer\Rust_Mini_Projects\src\main.rs C:\Users\Rommel\OneDrive\Desktop\RustReviewer\Rust_Mini_Projects\src\prime_checker.rs
